@@ -31,4 +31,3 @@ class Asteroid(CircleShape):
         
         a.velocity = 1.2 * first_vector
         b.velocity = 1.2 * second_vector
-        # b.velocity(self.velocity * 1.2)
